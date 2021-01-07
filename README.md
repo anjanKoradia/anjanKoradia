@@ -48,8 +48,8 @@
   <img src="https://img.shields.io/badge/Git%20-%23F05033.svg?&style=for-the-badge&logo=Git&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Canva%20-00C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/visual studio code%20-%23007ACC.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Intellij IDEA%20-000000.svg?&style=for-the-badge&logo=Intellij IDEA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/visual studio code%20-%23007ACC.svg?&style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Intellij IDEA%20-000000.svg?&style=for-the-badge&logo=Intellij-IDEA&logoColor=white"/>
 </p>
 
 <br />
