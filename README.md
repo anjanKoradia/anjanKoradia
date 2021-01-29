@@ -61,7 +61,7 @@
   <a href="https://www.facebook.com/profile.php?id=100007161725197"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://github.com/anjan-21"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;&nbsp;
 
-<a href="https://auth.geeksforgeeks.org/user/anjankoradia/profile"><img align="center" src="https://img.shields.io/badge/Geeks for Geeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/anjankoradia2101/profile"><img align="center" src="https://img.shields.io/badge/Geeks for Geeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/anjankoradia2101"><img align="center" src="https://img.shields.io/badge/Hacker Rank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/story/14923494"><img align="center" src="https://img.shields.io/badge/Stack Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>&nbsp;&nbsp;
 </p>
