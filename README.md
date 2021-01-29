@@ -64,8 +64,4 @@
 <a href="https://auth.geeksforgeeks.org/user/anjankoradia/profile"><img align="center" src="https://img.shields.io/badge/Geeks for Geeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/anjankoradia2101"><img align="center" src="https://img.shields.io/badge/Hacker Rank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/story/14923494"><img align="center" src="https://img.shields.io/badge/Stack Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>&nbsp;&nbsp;
-
-<a href="https://www.coursera.org/user/0caf37839016066c4f640f8e07a38300"><img align="center" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/></a>&nbsp;&nbsp;
-<a href="https://www.udemy.com/user/koradia-anjan/"><img align="center" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white"/></a>&nbsp;&nbsp;
-
 </p>
