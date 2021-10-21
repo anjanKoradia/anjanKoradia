@@ -21,8 +21,8 @@
 ## :chart_with_upwards_trend: Github Status :
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anjanKoradia&count_private=true&theme=flag-india&show_icons=true&locale=en" alt="anjanKoradia" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjanKoradia&layout=compact&theme=flag-india&langs_count=8" alt="anjanKoradia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anjanKoradia&count_private=true&theme=flag-india&show_icons=true&locale=en&layout=compact" alt="anjanKoradia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjanKoradia&layout=compact&theme=flag-india&langs_count=8" alt="anjanKoradia" />
 </p>
 
 <br />
