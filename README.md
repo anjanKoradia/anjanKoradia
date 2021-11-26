@@ -11,17 +11,18 @@
 ## :bust_in_silhouette: About Me :
 
 - 🔭 I’m currently doing **Computer Engineering**
-- 👨‍💻 I’m currently learning **REST APIs**
+- 👨‍💻 I’m currently learning **Adv. Java**
 - 📫 How to reach me **anjankoradia@gmail.com**
 - 💬 Ask me about anything
-- ⚡ Fun fact **My dream home would be Antilia**
+- ⚡ Fun fact **In future my home would be bigger than Antilia.**
 
 <br />
 
 ## :chart_with_upwards_trend: Github Status :
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anjanKoradia&count_private=true&theme=flag-india&show_icons=true&locale=en&layout=compact" alt="anjanKoradia" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anjanKoradia&count_private=true&theme=flag-india&show_icons=true&locale=en&layout=compact" alt="anjanKoradia" /> -->
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjanKoradia" alt="anjanKoradia" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjanKoradia&layout=compact&theme=flag-india&langs_count=8" alt="anjanKoradia" />
 </p>
 
@@ -49,6 +50,7 @@
   <img src="https://img.shields.io/badge/Git%20-%23F05033.svg?&style=for-the-badge&logo=Git&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Canva%20-00C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/visual studio code%20-%23007ACC.svg?&style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Intellij IDEA%20-000000.svg?&style=for-the-badge&logo=Intellij-IDEA&logoColor=white"/>
 </p>
@@ -58,12 +60,9 @@
 ## :globe_with_meridians: Reach out to me :
 
 <p align="left">
-  <a href="https://www.instagram.com/__.anjan.__21/"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100007161725197"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/anjan-21"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;&nbsp;
-
 <a href="https://auth.geeksforgeeks.org/user/anjankoradia2101/profile"><img align="center" src="https://img.shields.io/badge/Geeks for Geeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/anjankoradia2101"><img align="center" src="https://img.shields.io/badge/Hacker Rank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/story/14923494"><img align="center" src="https://img.shields.io/badge/Stack Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/__.anjan.__21/"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;
 
 </p>
