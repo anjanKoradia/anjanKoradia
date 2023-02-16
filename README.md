@@ -10,9 +10,9 @@
 
 ## :bust_in_silhouette: About Me :
 
-- 🔭 I’m currently doing **Computer Engineering**
-- 👨‍💻 I’m currently learning **Adv. Java**
-- 📫 How to reach me **anjankoradia@gmail.com**
+- 🔭 I’m currently pursuing **Computer Engineering**
+- 👨‍💻 I’m currently learning **Python**
+- 📫 How to reach me **anjankoradia.carriar@gmail.com**
 - 💬 Ask me about anything
 - ⚡ Fun fact **In future my home would be bigger than Antilia.**
 
