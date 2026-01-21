@@ -1,5 +1,3 @@
-[![Anjan Koradia](https://github.com/anjanKoradia/anjanKoradia/blob/master/assets/Banner.png)](https://github.com/anjanKoradia)
-
 <h1 align="center">Hi 👋, I'm Anjan Koradia</h1>
 <h3 align="center">A boy trying to learn everything!!</h3>
 
@@ -10,9 +8,8 @@
 
 ## :bust_in_silhouette: About Me :
 
-- 🔭 I’m currently pursuing **Computer Engineering**
-- 👨‍💻 I’m currently learning **Machine Learning**
-- 📫 How to reach me **anjankoradia.carriar@gmail.com**
+- 👨‍💻 I’m currently learning **AI & Machine Learning**
+- 📫 How to reach me **anjankoradia.work@gmail.com**
 - 💬 Ask me about anything
 - ⚡ Fun fact **In future my home would be bigger than Antilia.**
 
@@ -66,3 +63,4 @@
 <a href="https://www.instagram.com/__.anjan.__21/"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;
 
 </p>
+
